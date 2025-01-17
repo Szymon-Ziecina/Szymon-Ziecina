@@ -1,7 +1,7 @@
 # 💫 Hey! Nice to meet you
 
 Welcome to my page! \
-I'm Szymon FullStack developer based in <img src="https://flagcdn.com/w320/pl.png" alt="Poland Flag" width="11" height="11" style='border: 1px solid black; border-radius: 50%'> **Warsaw, Poland** \
+I'm Szymon FullStack developer based in **Warsaw, Poland** \
 I specialize in building dynamic web applications using Next.js, React, and Express. \
 When I’m not coding you’ll probably find me snowboarding or getting caught up in the thrill of motorsports.
 

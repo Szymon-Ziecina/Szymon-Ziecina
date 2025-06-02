@@ -1,7 +1,7 @@
 # 💫 Hey! Nice to meet you
 
 Welcome to my page! \
-I'm Szymon FullStack developer based in **Warsaw, Poland** \
+I'm Szymon FullStack developer based in **Cracow, Poland** \
 I specialize in building dynamic web applications using Next.js, React, and Express. \
 When I’m not coding you’ll probably find me snowboarding or getting caught up in the thrill of motorsports.
 
@@ -32,5 +32,3 @@ When I’m not coding you’ll probably find me snowboarding or getting caught u
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/khjwaed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071508952899) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/szymon2872)
 
 [![](https://visitcount.itsvg.in/api?id=Szymon-Ziecina&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
